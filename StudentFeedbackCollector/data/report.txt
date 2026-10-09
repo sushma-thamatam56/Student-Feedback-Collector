@@ -1,0 +1,10 @@
+STUDENT FEEDBACK COLLECTOR
+==========================
+
+Total students: 2
+Submitted: 1
+Pending: 1
+
+Clarity: 4.00
+Examples: 3.00
+Pace: 4.00
